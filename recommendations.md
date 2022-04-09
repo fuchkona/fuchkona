@@ -2,7 +2,7 @@
 
 # Recommendations
 
-## Alexander Nichiporenko
+## [Alexander Nichiporenko](https://www.linkedin.com/in/alexander-nichiporenko-6092691a9/)
 
 ### Software Engineer at A.R. Merkeleon [PHP, Laravel, Go]
 
@@ -30,7 +30,7 @@ to deal with really makes the team more attractive place to work. Still miss thi
 
 Strongly endorse Nikita. You are lucky if you have a chance to have him in your team.
 
-## Yury Sekin
+## [Yury Sekin](https://www.linkedin.com/in/yury-sekin-6b876630/)
 
 ### Head Of Web Development at "Architectural Bureau" LLC
 
@@ -57,14 +57,14 @@ During the work on this project, Nikita often surprised with his skills:
 
 I highly endorse Nikita.
 
-## Vladimir Konchyk
+## [Vladimir Konchyk](https://www.linkedin.com/in/vkonchyk/)
 
 ### Founder & CEO at NFT projects | Blockchain & NFT Enthusiast
 
 I ordered an audit of the project code from Nikita. Nikita is a real virtuoso and a professional in his field. He helped
 to identify flaws and weaknesses in the code and gave recommendations for the further development of the project.
 
-## Nikita Andreev
+## [Nikita Andreev](https://www.linkedin.com/in/andreev-nv/)
 
 ### Lead Product Manager at Skypro (Skyeng)
 
@@ -77,7 +77,7 @@ joint projects were completed on time without any troubles.
 
 I had pleasure to work with Nikita and highly recommend him as good developer and person.
 
-## Max Ignatenko
+## [Max Ignatenko](https://www.linkedin.com/in/max-ignatenko/)
 
 ### FinTech&EdTech IT Product Manager
 
@@ -87,7 +87,7 @@ find a common language and balance between business goals and the right technica
 Nikita closely follows the essence of the tasks, warns about the shortcomings of some technical solutions and offers the
 best ones.
 
-## Ulyana Tarasova
+## [Ulyana Tarasova](https://www.linkedin.com/in/ulyana-tarasova-320966200/)
 
 ### QA Engineer
 
