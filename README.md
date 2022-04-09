@@ -14,10 +14,20 @@ microservice architectures.
 
 ## 🛠 Technical Stack
 
-* PHP, Python languages
+* PHP (Laravel, Symfony, Yii2, Zend)
+  * [Passed LinkedIn Skill Assessment](/img/linkedin_php.png) | Top 5%
+  * [Passed CodinGame Certification](https://www.codingame.com/certification/j0WiVtqrxfVuwizQfhD6zg) | Top 1%
+* JS (Vue JS)
+* Python
+  * [Passed LinkedIn Skill Assessment](/img/linkedin_pyhon.png) | Top 30%
+  * [Passed CodinGame Certification](https://www.codingame.com/certification/lGECa9jRo4WHEZb0JDevpg) | Top 1%
 * MySQL, PostgreSQL, MSSQL, MongoDB
-* Laravel, Symfony, Yii2, Zend
-* GitHub/GitLab/Bitbucket
+* GitHub, GitLab, Bitbucket
+* JIRA, Confluence
+* SOLID, DRY, KISS, OOP, TDD, DDD
+* English
+  * [Cambridge English Entry Level Certificate in ESOL International (Entry 3)](https://drive.google.com/file/d/1UxfyiktFbsQsugkRgc8jnBpiIUNFsigy/view?usp=sharing)
+  * [Passed Simpler Certification](https://simpler.link/c/NoA32)
 
 <br>
 <div align="center">
