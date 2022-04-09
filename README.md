@@ -7,7 +7,7 @@ microservice architectures.
 ### Key points
 
 * Currently, working in [Sun Finance](https://www.linkedin.com/company/sun-finance/)
-* Here is some [recommendations](/recommendations.md) 
+* Here are some [recommendations](/recommendations.md) 
 * Have experience not only as a senior developer but also as a team lead
 * Love to learn something new, and love to help others with it
 * Most interesting subjects: programming, languages, psychology
