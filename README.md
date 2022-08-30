@@ -11,6 +11,7 @@ microservice architectures.
 * Have experience not only as a senior developer but also as a team lead
 * Love to learn something new, and love to help others with it
 * Most interesting subjects: programming, languages, psychology
+* Article about me: [GeekBrains (Rus)](https://gb.ru/posts/nadoela-dobyvayushchaya-otrasl-zahotelos-v-it)
 
 ## 🛠 Technical Stack
 
