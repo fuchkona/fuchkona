@@ -30,6 +30,15 @@ microservice architectures.
   * [Cambridge English Entry Level Certificate in ESOL International (Entry 3)](https://drive.google.com/file/d/1UxfyiktFbsQsugkRgc8jnBpiIUNFsigy/view?usp=sharing)
   * [Passed Simpler Certification](https://simpler.link/c/NoA32)
 
+## Social
+
+* [CodinGame](https://www.codingame.com/profile/ba6dce2c2d77d787051fa2a1fa511bbb5685383)
+* [LeetCode](https://leetcode.com/fuchko/)
+* [Codewars](https://www.codewars.com/users/fuchko)
+* [Memrise](https://app.memrise.com/user/fuchko/)
+* [Facebook](https://www.facebook.com/fuchkona)
+* [Vas3k.club](https://vas3k.club/user/fuchko/)
+
 <br>
 <div align="center">
    <a href="https://t.me/Fuchko" target="_blank">
