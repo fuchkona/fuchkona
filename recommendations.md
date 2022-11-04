@@ -2,6 +2,17 @@
 
 # Recommendations
 
+## [Natalja Kaplina](https://www.linkedin.com/in/natalja-kaplina-278b02137/)
+
+### Senior Product Owner at Sun Finance
+
+I had great chance to work together with Nikita in Sun Finance.
+Nikita has great combination of strong technical skills and incredible soft skills. 
+As Product Owner, I was able always rely on him with difficult development task and be sure that they will be delivered with great result in expected time frames.
+Nikita has great communication skills, always ready to help and ability to mentor other employees. Behind that he has great sense of humour, what helped him to become part of our team very fast.
+
+I strongly believe that Nikita would be great employee of any IT company.
+
 ## [Alexander Nichiporenko](https://www.linkedin.com/in/alexander-nichiporenko-6092691a9/)
 
 ### Software Engineer at A.R. Merkeleon [PHP, Laravel, Go]
@@ -57,13 +68,6 @@ During the work on this project, Nikita often surprised with his skills:
 
 I highly endorse Nikita.
 
-## [Vladimir Konchyk](https://www.linkedin.com/in/vkonchyk/)
-
-### Founder & CEO at NFT projects | Blockchain & NFT Enthusiast
-
-I ordered an audit of the project code from Nikita. Nikita is a real virtuoso and a professional in his field. He helped
-to identify flaws and weaknesses in the code and gave recommendations for the further development of the project.
-
 ## [Nikita Andreev](https://www.linkedin.com/in/andreev-nv/)
 
 ### Lead Product Manager at Skypro (Skyeng)
@@ -96,3 +100,16 @@ leading a team to achieve a goal. In solving problems, he always uses innovative
 all the responsibility of decisions made. Nice to collaborate with tech savvy and resourceful people.
 
 It was a great experience to work with him. Those who will work with him will be lucky.
+
+## [Vladimir Konchyk](https://www.linkedin.com/in/vkonchyk/)
+
+### Founder & CEO at NFT projects | Blockchain & NFT Enthusiast
+
+I ordered an audit of the project code from Nikita. Nikita is a real virtuoso and a professional in his field. He helped
+to identify flaws and weaknesses in the code and gave recommendations for the further development of the project.
+
+## [Anton Zyabko](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B7%D1%8F%D0%B1%D0%BA%D0%BE-85a97b180/)
+
+### IT Project Manager – Skillbox
+
+One of the greatest technical leaders and developers I have ever worked with
