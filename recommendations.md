@@ -27,7 +27,7 @@ I strongly believe that Nikita would be great employee of any IT company.
 
 ## [Alexander Nichiporenko](https://www.linkedin.com/in/alexander-nichiporenko-6092691a9/)
 
-### Software Engineer at A.R. Merkeleon [PHP, Laravel, Go]
+### Software Engineer at A.R. Merkeleon
 
 I worked with Nikita in one project team developing a web application for large FMCG manufacturer for about two years
 and went together trought different challenges at different project stages. Nikita as highly qualified fullstack
@@ -115,7 +115,7 @@ best ones.
 
 ## [Ulyana Tarasova](https://www.linkedin.com/in/ulyana-tarasova-320966200/)
 
-### QA Engineer
+### QA Engineer at Skillbox
 
 I have been working with Nikita for some projects. I must say that he is a very good teammate and also very good at
 leading a team to achieve a goal. In solving problems, he always uses innovative methods. Reliable employee who takes
@@ -132,6 +132,6 @@ to identify flaws and weaknesses in the code and gave recommendations for the fu
 
 ## [Anton Zyabko](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B7%D1%8F%D0%B1%D0%BA%D0%BE-85a97b180/)
 
-### IT Project Manager – Skillbox
+### IT Project Manager at Skillbox
 
 One of the greatest technical leaders and developers I have ever worked with
