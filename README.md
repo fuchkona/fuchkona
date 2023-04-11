@@ -1,12 +1,12 @@
 # Hi, I'm Nikita 👋
 
-Senior Software Engineer with more than 7 years of commercial experience. I have excellent knowledge in backend
+Senior Software Engineer with more than 8 years of commercial experience. I have excellent knowledge in backend
 development on PHP and some experience with frontend development on JS. In general worked with monolithic and
 microservice architectures.
 
 ### Key points
 
-* Currently, working in [Sun Finance](https://www.linkedin.com/company/sun-finance/)
+* Currently, working in [Yandex](https://www.linkedin.com/company/yandex/)
 * Here are some [recommendations](/recommendations.md) 
 * Have experience not only as a senior developer but also as a team lead
 * Love to learn something new, and love to help others with it
