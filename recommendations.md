@@ -2,6 +2,18 @@
 
 # Recommendations
 
+## [Roman Kornienko](https://www.linkedin.com/in/роман-корниенко-945110179/)
+
+### CIO at Sun Finance
+
+During his work, Nikita has established himself as a senior level engineer. He showed independence from fixing bugs to complex architectural solutions. Showed mentoring and brought new knowledge to the team. Nikita also has good soft skills and easily joined the team. I can recommend him as a high level professional.
+
+## [Aleksejs Prokofjevs](https://www.linkedin.com/in/aleksejs-prokofjevs/)
+
+### Team Lead at Sun Finance
+
+Nikita is a very hardworking developer who can be trusted with a task of any complexity. Working on a project Nikita proved to be highly skilled, attentive to details with blazing fast delivery. Easily joined the team and a pleasant person to communicate with. I highly recommend him to anyone looking for help on their projects.
+
 ## [Natalja Kaplina](https://www.linkedin.com/in/natalja-kaplina-278b02137/)
 
 ### Senior Product Owner at Sun Finance
@@ -67,6 +79,16 @@ During the work on this project, Nikita often surprised with his skills:
 - with Nikita, you can always find a common topic for conversation, not only on work issues.
 
 I highly endorse Nikita.
+
+## [Ivan Kazantsev](https://www.linkedin.com/in/ivan-kazantsev-99391024a/)
+
+### Team Lead Frontend at Skillbox
+
+I worked with Nikita a year ago, but I remember some of his strengths. As a team lead of frontend, I didn't have the opportunity to review his code, but I can speak to his other achievements:
+
+1. Nikita demonstrated excellent system analysis skills; 
+2. he frequently requested feedback, indicating a strong interest in self-development;
+3. he hosted coding challenges, promoted team training, provided the team with necessary training materials.
 
 ## [Nikita Andreev](https://www.linkedin.com/in/andreev-nv/)
 
