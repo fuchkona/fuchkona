@@ -135,3 +135,7 @@ to identify flaws and weaknesses in the code and gave recommendations for the fu
 ### IT Project Manager at Skillbox
 
 One of the greatest technical leaders and developers I have ever worked with
+
+---
+
+### [All recommendations on linkedin](https://www.linkedin.com/in/fuchko/details/recommendations/)
