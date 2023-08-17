@@ -22,6 +22,7 @@ microservice architectures.
 * Python
   * [Passed LinkedIn Skill Assessment](/img/linkedin_pyhon.png) | Top 30%
   * [Passed CodinGame Certification](https://www.codingame.com/certification/lGECa9jRo4WHEZb0JDevpg) | Top 1%
+* GO
 * MySQL, PostgreSQL, MSSQL, MongoDB
 * GitHub, GitLab, Bitbucket
 * JIRA, Confluence
@@ -34,7 +35,7 @@ microservice architectures.
 
 * [CodinGame](https://www.codingame.com/profile/ba6dce2c2d77d787051fa2a1fa511bbb5685383)
 * [LeetCode](https://leetcode.com/fuchko/)
-* [Codewars](https://www.codewars.com/users/fuchko)
+* [Codewars](https://www.codewars.com/users/fuchko) <img src="https://www.codewars.com/users/fuchko/badges/micro"/>
 * [Memrise](https://app.memrise.com/user/fuchko/)
 * [Facebook](https://www.facebook.com/fuchkona)
 * [Vas3k.club](https://vas3k.club/user/fuchko/)
@@ -42,16 +43,12 @@ microservice architectures.
 <br>
 <div align="center">
    <a href="https://t.me/Fuchko" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>        
+  </a>
   <a href="https://www.linkedin.com/in/fuchko/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </div>
-<div align='center'>
-  📫  How to reach me: <a href='mailto:fuchko.nikita@gmail.com'>fuchko.nikita@gmail.com</a>
-</div>
-<br>
 <div align="center">
     <a href="https://github.com/fuchkona/github-profile-views-counter">
         <img width="125px" src="https://komarev.com/ghpvc/?username=fuchkona&color=6666cc">
